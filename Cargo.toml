@@ -6,7 +6,7 @@ edition = "2021"
 description = "A modern GameCube emulator written in Rust."
 readme = "README.md"
 repository = "https://github.com/NWPlayer123/Eterna"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 keywords = ["emulator", "emulation"]
 
 [dependencies]
